@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="250" alt="Go Gopher">
+<img src="assets/golanganimated.gif" width="720" alt="Coding">
 
 # 🚀 Golang Projects
 
@@ -86,7 +86,7 @@ I am continuously expanding this collection with new projects as I advance throu
 
 ### 💡 "The best way to learn Go is by building real projects."
 
-<img src="assets/golanganimated.gif" width="320" alt="Coding">
+<img src="assets/golanganimated.gif" width="720" alt="Coding">
 
 ⭐ Thank you for visiting my repository!
 
