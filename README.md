@@ -65,7 +65,7 @@ Each project in this repository represents a step forward in my journey as a Go 
 * Software Architecture
 
 
-## 🌟 Repository Purpose
+## 💡 Repository Purpose
 
 This repository serves as a practical learning space where I can apply and reinforce the knowledge acquired throughout the **Go Developer Formation by DIO.me**.
 
@@ -80,6 +80,6 @@ I am continuously expanding this collection with new projects as I advance throu
 
 <img src="assets/golanganimated.gif" width="720" alt="Coding">
 
-⭐ Thank you for visiting my repository!
+Thank you for visiting my repository!
 
 </div>
