@@ -64,15 +64,6 @@ Each project in this repository represents a step forward in my journey as a Go 
 * Clean Code
 * Software Architecture
 
----
-
-## 📈 Progress
-
-```text
-[██████████░░░░░░░░░░] Go Developer Formation in Progress 🚀
-```
-
----
 
 ## 🌟 Repository Purpose
 
@@ -84,7 +75,8 @@ I am continuously expanding this collection with new projects as I advance throu
 
 <div align="center">
 
-### 💡 "The best way to learn Go is by building real projects."
+### "Only Knowledge frees the Man"
+#### - Dr. Enéas Ferreira Carneiro
 
 <img src="assets/golanganimated.gif" width="720" alt="Coding">
 
